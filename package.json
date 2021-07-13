@@ -1,6 +1,9 @@
 {
-  "name": "with-styled-components",
+  "name": "alurakut",
   "version": "1.0.0",
+  "author": "Otavio Henrique",
+  "keywords": ["Javascript", "HTML5", "CSS3", "Reactjs", "Nextjs", "Git"],
+  "description": "Projeto feito na Imersao React 3a edicao",
   "scripts": {
     "dev": "next",
     "build": "next build",
